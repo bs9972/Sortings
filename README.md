@@ -30,9 +30,9 @@ k번째 원소를 1부터 k-1까지와 비교해 적절한 위치에 끼워넣�
 ![삽입정렬](https://user-images.githubusercontent.com/101388180/166897200-2c7b0b83-6151-4033-a785-d6881ac28bc1.PNG)  
 선택 정렬 실행 결과  
 ![선택정렬](https://user-images.githubusercontent.com/101388180/166897204-66827ea5-e4a7-4a71-aedb-149a842fabb5.PNG)  
-10번 실행 결과에 대한 통계표  
+### 10번 실행 결과에 대한 통계표  
 ![평균과 표준편차](https://user-images.githubusercontent.com/101388180/166904541-95ef3f12-7dc5-4fad-b2d6-fb06d9d75e42.PNG)
-결과 그래프  
+### 결과 그래프  
 ![그래프](https://user-images.githubusercontent.com/101388180/166905629-b08fa262-28ae-424f-be6a-d1b475645c75.PNG)
 # 결론
 자기 자신의 알고리즘 구현 실력,시간 확률 분포,메모리 크기에 따라 상황에 맞는 정렬 알고리즘을 골라 구현 해야 할듯하다. 또한 이미 정렬된 알고리즘에 대해서 시간이 걸리는 것에 의문이 들어 찾아보니 정렬 알고리즘 같은 경우 정렬 되있는 데이터도 무조건 알고리즘을 수행 한다고 한다.
